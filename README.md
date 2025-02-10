@@ -2,7 +2,10 @@
 
 ![img.png](img/header.png)
 <h1>property-lang</h1>
- 
+
+
+### [Golang библиотека](https://github.com/property-lang/go-property-lang)
+
 </div>
  
 # About property-lang
@@ -115,11 +118,12 @@
     "options": null
     },
 
-Планирую добавить регулярные выражения и примеры options для полей типа <select>
+Планирую добавить регулярные выражения и примеры options для полей типа select
 
-# Библиотеки
 
-- Здесь будет го
+# Пакеты
+
+-  [Пакет для Go](https://github.com/property-lang/go-property-lang)
 - Здесь будет ангуляр
 - Возможно php laravel
 - Возможно rust
